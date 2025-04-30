@@ -8,13 +8,13 @@ This project demonstrates the computation process of the RWKV (Receptance Weight
 [RWKV-7](https://arxiv.org/abs/2503.14456) "Goose" 🪿 is 100% RNN and a meta-in-context learner, efficiently test-time-training its state on the context via in-context gradient descent at every token in parallel. 
 
 ### Model Architecture
-![RWKV-7 Model Architecture](images\rwkv7\rwkv-7-detail.jpg)
+![RWKV-7 Model Architecture](images/rwkv7/rwkv-7-detail.jpg)
 
 
 ### Excel screenshots
-![](images\rwkv7\rwkv-7-timemix-excel.png)
-![](images\rwkv7\rwkv-7-op-excel.png)
-![](images\rwkv7\rwkv-7-channelmix-excel.png)
+![](images/rwkv7/rwkv-7-timemix-excel.png)
+![](images/rwkv7/rwkv-7-op-excel.png)
+![](images/rwkv7/rwkv-7-channelmix-excel.png)
 
 
 ## Acknowledgments
